@@ -23,7 +23,7 @@ I'm a Software Engineer passionate about building practical software solutions a
 🧠 Interested in backend development, data structures, and problem-solving
 🔍 Building projects that turn complex problems into useful applications
 🌱 Always learning, experimenting, and building something new
-python
+
 class Rayhan:
     def __init__(self):
         self.role = "Software Engineer"
