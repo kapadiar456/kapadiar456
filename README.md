@@ -40,8 +40,8 @@ I'm a Software Engineer passionate about building practical software solutions a
         def say_hi(self):
             print("Thanks for stopping by! Let's build something awesome.")
 
-me = Rayhan()
-me.say_hi()
+        me = Rayhan()
+        me.say_hi()
 
 🛠️ Tech Stack
 Languages
