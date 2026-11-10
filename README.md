@@ -24,25 +24,6 @@ I'm a Software Engineer passionate about building practical software solutions a
 🔍 Building projects that turn complex problems into useful applications
 🌱 Always learning, experimenting, and building something new
 
-    class Rayhan:
-        def __init__(self):
-            self.role = "Software Engineer"
-            self.company = "SAP"
-            self.interests = [
-                "Artificial Intelligence",
-                "Backend Development",
-                "RAG & LLMs",
-                "Software Engineering",
-                "Problem Solving"
-            ]
-            self.current_mindset = "Always building. Always learning."
-
-        def say_hi(self):
-            print("Thanks for stopping by! Let's build something awesome.")
-
-        me = Rayhan()
-        me.say_hi()
-
 🛠️ Tech Stack
 Languages
 
@@ -54,7 +35,7 @@ AI & Backend
 
 Tools & Technologies
 
-!Docker !Git !GitHub !Visual Studio
+| Docker | Git | GitHub | Visual Studio
 
 🌟 Featured Projects
 
