@@ -27,15 +27,15 @@ I'm a Software Engineer passionate about building practical software solutions a
 🛠️ Tech Stack
 Languages
 
-!Python !C%23
+Python | C++ | C# | Typescript | Javascript
 
 AI & Backend
 
-!OpenAI !FastAPI !Streamlit !MongoDB
+OpenAI | FastAPI | Streamlit | MongoDB
 
 Tools & Technologies
 
-| Docker | Git | GitHub | Visual Studio
+Docker | Git | GitHub | Visual Studio
 
 🌟 Featured Projects
 
